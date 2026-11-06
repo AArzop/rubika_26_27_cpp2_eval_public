@@ -33,6 +33,8 @@
 
 You will find in this folder a incomplete c++ project that you have to finished. You will have to implement a LRU Cache (least recently used).
 
-### Game Theory
+### Huffman
 *Folder* : **Huffman**\
 *Readme* : [Open file](./Huffman/README.md)
+
+You will find in this folder a incomplete c++ project that you have to finished. You will have to implement a Huffman compression system based on tree to encode and decode srings.
